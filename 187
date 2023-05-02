@@ -1,2 +1,2 @@
-local teat = 1 
+local test = 1 
 print(test)
